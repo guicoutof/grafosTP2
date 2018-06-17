@@ -1,4 +1,4 @@
-package iu;
+package grafos.iu;
 
 import grafos.BFS;
 import grafos.DFS;
