@@ -1,11 +1,11 @@
-package grafos.iu;
+package grafosTP2.iu;
 
-import grafos.BFS;
-import grafos.DFS;
-import grafos.Kruskal;
-import grafos.ListaAdjacencia;
-import grafos.MatrizAdjacencia;
-import grafos.Vertice;
+import grafosTP2.BFS;
+import grafosTP2.DFS;
+import grafosTP2.Kruskal;
+import grafosTP2.ListaAdjacencia;
+import grafosTP2.MatrizAdjacencia;
+import grafosTP2.Vertice;
 import java.awt.Color;
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
